@@ -17,7 +17,6 @@ If you click on the cards in the bottom right of the screen, a new card will be 
 * 2-Suits 
 * 4-Suits 
 
-Have fun!
 
 ## Screenshots
 Game Start
@@ -32,4 +31,6 @@ Game Over
 ![UI V2](https://github.com/coyg7/coyg7.github.io/blob/master/Spider-Solitaire/screenshots/Screenshot3.png)
 
 
+
+#### Have fun!
 
